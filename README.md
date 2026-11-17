@@ -3,8 +3,7 @@
 ## Overview
 Using Google’s Machine Learning/AI Library, MediaPipe, the user can control playback using hand gestures captured from their camera or webcam.
 
-**
-Currently, this script only runs on Windows. An executable of this program is not ready yet, but if you download the source, you can run it as long as you install the required libraries with the requirements.txt file.**
+**Currently, this script only runs on Windows. An executable of this program is not ready yet, but if you download the source, you can run it as long as you install the required libraries with the requirements.txt file.**
 
 ## Features
 ### Volume Control
